@@ -39,7 +39,7 @@ Base models trained include:
         K Nearest Neighbours
         Gradient Boosting
         AdaBoost
-    Each model has a dedicated notebook for training and evaluation.
+Each model has a dedicated notebook for training and evaluation.
 
 
 ### Trained Models
