@@ -65,6 +65,6 @@ Each model has a dedicated notebook for training and evaluation.
 
     Base Models: Logistic Regression, Decision Tree, Random Forest, SVM, KNN, Gradient Boosting, and AdaBoost.
 
-    Stacking Strategy: Combines predictions of base models using a meta-model (e.g., Logistic Regression) to improve performance.
+    Stacking Strategy: Combines predictions of base models using a meta-model (Logistic Regression) to improve performance.
 
     Feature Engineering: Preprocessing steps include feature scaling, selection, and handling missing values.
