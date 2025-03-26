@@ -64,8 +64,8 @@ Includes a meta-model for final predictions.
 
 ## Features and Models
 
-    Base Models: Logistic Regression, Decision Tree, Random Forest, SVM, KNN, Gradient Boosting, and AdaBoost.
+* Base Models: `Logistic Regression` `Decision Tree` `Random Forest` `Support Vector Machine` `K Nearest Neighbours` `Gradient Boosting` `AdaBoost`.
 
-    Stacking Strategy: Combines predictions of base models using a meta-model (Logistic Regression) to improve performance.
+* Stacking Strategy: Combines predictions of base models using a meta-model (`Logistic Regression`) to improve performance.
 
-    Feature Engineering: Preprocessing steps include feature scaling, selection, and handling missing values.
+* Feature Engineering: Preprocessing steps include feature scaling, selection, and handling missing values.
