@@ -11,14 +11,14 @@ This repository contains the implementation of a stacked machine learning model 
 ### Raw Data
 
 ###### Directory: `1-RawData/`
-          1-RawData/wdbc.data: Original dataset.
-          1-RawData/breast_cancer_modified.csv: Modified version for preprocessing.
-          1-RawData/breast_cancer_selected.csv: Feature-selected dataset.
+          `1-RawData/wdbc.data`: Original dataset.
+          `1-RawData/breast_cancer_modified.csv`: Modified version for preprocessing.
+          `1-RawData/breast_cancer_selected.csv`: Feature-selected dataset.
 
 
 ### Data Preprocessing
 
-###### Directory: 2-DataPreprocessing/
+###### Directory: `2-DataPreprocessing/`
 
         Contains notebooks for:
             Handling missing values.
@@ -28,30 +28,30 @@ This repository contains the implementation of a stacked machine learning model 
 
 ### Base Model Training
 
-###### Directory: 3-BaseModelTraining/
+###### Directory: `3-BaseModelTraining/`
 
 Base models trained include:
 
-        Logistic Regression
-        Decision Tree
-        Random Forest
-        Support Vector Machine
-        K Nearest Neighbours
-        Gradient Boosting
-        AdaBoost
+        `Logistic Regression`
+        `Decision Tree`
+        `Random Forest`
+        `Support Vector Machine`
+        `K Nearest Neighbours`
+        `Gradient Boosting`
+        `AdaBoost`
 Each model has a dedicated notebook for training and evaluation.
 
 
 ### Trained Models
 
-###### Directory: 4-TrainedModels/
+###### Directory: `4-TrainedModels/`
 
         Contains serialized models saved as .pkl files for reuse.
 
 
 ### Stacked Model
 
-###### Directory: 5-BaseModelStacking/
+###### Directory: `5-BaseModelStacking/`
 
         Implements the stacked model using outputs from base models.
 
