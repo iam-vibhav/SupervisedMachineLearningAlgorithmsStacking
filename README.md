@@ -20,10 +20,10 @@ This repository contains the implementation of a stacked machine learning model 
 
 ###### Directory: `2-DataPreprocessing/`
 
-        Contains notebooks for:
-            Handling missing values.
-            Scaling features.
-            Splitting the dataset into training and testing sets.
+Contains notebooks for:
+*Handling missing values.
+*Scaling features.
+*Splitting the dataset into training and testing sets.
 
 
 ### Base Model Training
