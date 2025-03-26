@@ -47,16 +47,16 @@ Each model has a dedicated notebook for training and evaluation.
 
 ###### Directory: `4-TrainedModels/`
 
-        Contains serialized models saved as .pkl files for reuse.
+Contains serialized models saved as .pkl files for reuse.
 
 
 ### Stacked Model
 
 ###### Directory: `5-BaseModelStacking/`
 
-        Implements the stacked model using outputs from base models.
+Implements the stacked model using outputs from base models.
 
-        Includes a meta-model for final predictions.
+Includes a meta-model for final predictions.
 
 
 
