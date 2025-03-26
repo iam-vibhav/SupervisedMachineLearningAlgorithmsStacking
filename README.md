@@ -14,7 +14,7 @@ This repository contains the implementation of a stacked machine learning model 
 `1-RawData/wdbc.data`: Original dataset.<br>
 `1-RawData/breast_cancer_modified.csv`: Modified version for preprocessing.<br>
 `1-RawData/breast_cancer_selected.csv`: Feature-selected dataset.<br>
-
+<br>
 
 ### Data Preprocessing
 
@@ -24,7 +24,7 @@ This repository contains the implementation of a stacked machine learning model 
             Handling missing values.
             Scaling features.
             Splitting the dataset into training and testing sets.
-
+<br>
 
 ### Base Model Training
 
@@ -41,14 +41,14 @@ Base models trained include:
 `AdaBoost`
 
 Each model has a dedicated notebook for training and evaluation.
-
+<br>
 
 ### Trained Models
 
 ###### Directory: `4-TrainedModels/`
 
         Contains serialized models saved as .pkl files for reuse.
-
+<br>
 
 ### Stacked Model
 
@@ -57,7 +57,7 @@ Each model has a dedicated notebook for training and evaluation.
         Implements the stacked model using outputs from base models.
 
         Includes a meta-model for final predictions.
-
+<br>
 
 
         
