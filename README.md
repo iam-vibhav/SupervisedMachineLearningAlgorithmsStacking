@@ -10,7 +10,7 @@ This repository contains the implementation of a stacked machine learning model 
 
 ### Raw Data
 
-###### Directory: 1-RawData/
+###### Directory: `1-RawData/`
           1-RawData/wdbc.data: Original dataset.
           1-RawData/breast_cancer_modified.csv: Modified version for preprocessing.
           1-RawData/breast_cancer_selected.csv: Feature-selected dataset.
